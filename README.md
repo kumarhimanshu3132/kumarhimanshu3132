@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Himanshu
+<h3 align="center">Full-Stack MERN Developer | Computer Engineering Student 💻</h3>
 <p align="center">
   <a href="http://www.linkedin.com/in/himanshu-kumar-179528326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,17 +14,32 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kumarhimanshu3132&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<br/>
+
+### 👨‍💻 About Me
+- 🎓 I'm currently a 5th-semester Computer Engineering student.
+- 🚀 Building scalable web applications using the **MERN Stack**.
+- 🔐 Learning and implementing backend security, RBAC, and secure RESTful APIs.
+- ⚡ Fun fact: I love experimenting with modern UI designs like Tailwind CSS.
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,js,tailwind,java,git,vscode,vercel" />
+  </a>
+</p>
+
+---
+
+
 <!--
 **kumarhimanshu3132/kumarhimanshu3132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
