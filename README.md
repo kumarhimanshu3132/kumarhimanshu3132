@@ -13,9 +13,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 <!--
 **kumarhimanshu3132/kumarhimanshu3132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
