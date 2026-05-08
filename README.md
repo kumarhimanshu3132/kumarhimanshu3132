@@ -21,7 +21,6 @@
 - 🎓 I'm currently a 5th-semester Computer Engineering student.
 - 🚀 Building scalable web applications using the **MERN Stack**.
 - 🔐 Learning and implementing backend security, RBAC, and secure RESTful APIs.
-- ⚡ Fun fact: I love experimenting with modern UI designs like Tailwind CSS.
 
 ---
 
